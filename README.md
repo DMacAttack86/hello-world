@@ -1,2 +1,3 @@
 # hello-world
 Dave's first project repository
+These are the first steps...
